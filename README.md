@@ -4,6 +4,8 @@
 
 [Геном](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000209125.1/)
 
+[Ссылка на скачивание генома](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/209/125/GCA_000209125.2_JCVI_EDISG_1.0/GCA_000209125.2_JCVI_EDISG_1.0_genomic.fna.gz) (не получилось загрузить из-за размера)
+
 #### Ссылки на ноутбуки
 
 [Поиск генов, отвечающих за эпигенетику](https://colab.research.google.com/drive/1oFBsfjjAwu932DopJQ0QKLWA6p0VWCGP?usp=sharing)
